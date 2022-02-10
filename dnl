@@ -1,4 +1,4 @@
 #!/bin/bash
 
 chmod +x danila-miner
-./danila-miner run https://server1.whalestonpool.com EQCebZGgrEfSRfC9Fu4e8Y6UOkVg4-5wEenb12bnUgoMTZ6
+./danila-miner run https://server1.whalestonpool.com EQBw-hjfyuFkGzU8xstlUf39r7YaQGRN8ftiI6n0lhzvkATs
